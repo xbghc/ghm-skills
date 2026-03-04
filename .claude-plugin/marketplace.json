@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ghm-plugins",
+  "description": "Personal plugin collection by ghm",
+  "owner": {
+    "name": "ghm"
+  },
+  "plugins": [
+    {
+      "name": "ghm-skills",
+      "description": "UI design with Stitch MCP, frontend development workflows",
+      "source": "./plugins/ghm-skills",
+      "category": "design"
+    }
+  ]
+}
