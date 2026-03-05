@@ -18,6 +18,8 @@ plugins/
       stitch-ui/
         SKILL.md                  # Skill definition (triggered by Stitch-related requests)
         references/prompt-guide.md
+      distill/
+        SKILL.md                  # Session experience extraction skill
   zotero-mcp/                     # MCP server plugin
     .claude-plugin/plugin.json
     .mcp.json                     # MCP server config (npx @xbghc/zotero-mcp)
