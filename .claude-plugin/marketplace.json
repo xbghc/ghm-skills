@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "ghm-skills",
-      "description": "UI design with Stitch MCP, frontend development workflows",
+      "description": "UI design with Stitch MCP, session experience distillation, frontend development workflows",
       "source": "./plugins/ghm-skills",
       "category": "design"
     },

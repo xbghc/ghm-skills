@@ -6,9 +6,10 @@ Personal Claude Code plugin marketplace.
 
 ### ghm-skills
 
-UI design and frontend development workflows.
+UI design, experience distillation, and frontend development workflows.
 
 - **stitch-ui** — UI design with Stitch MCP. Two-phase delivery: generate screenshots for review, then produce code verified by Playwright.
+- **distill** — Extract reusable lessons from session trial-and-error into skills or project docs.
 
 ### zotero-mcp
 
