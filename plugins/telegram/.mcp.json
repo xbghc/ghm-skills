@@ -2,7 +2,7 @@
   "mcpServers": {
     "telegram": {
       "command": "uvx",
-      "args": ["xbghc-telegram-mcp"],
+      "args": ["--from", "xbghc-telegram-mcp", "telegram-mcp"],
       "env": {
         "TELEGRAM_BOT_TOKEN": "${TELEGRAM_BOT_TOKEN}",
         "TELEGRAM_ALLOWED_CHAT_ID": "${TELEGRAM_ALLOWED_CHAT_ID}"
