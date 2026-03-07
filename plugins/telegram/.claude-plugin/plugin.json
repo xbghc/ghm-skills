@@ -1,0 +1,11 @@
+{
+  "name": "telegram",
+  "version": "0.1.0",
+  "description": "Telegram bot integration: MCP server for messaging + skill for listen-process-reply loop",
+  "author": {
+    "name": "ghm"
+  },
+  "homepage": "https://github.com/xbghc/telegram-mcp",
+  "license": "MIT",
+  "keywords": ["telegram", "mcp", "bot", "messaging"]
+}

@@ -23,6 +23,12 @@
       "description": "Semantic Scholar MCP server for academic paper search and retrieval",
       "source": "./plugins/semanticscholar-mcp",
       "category": "productivity"
+    },
+    {
+      "name": "telegram",
+      "description": "Telegram bot integration: MCP server for messaging + listen-process-reply loop skill",
+      "source": "./plugins/telegram",
+      "category": "productivity"
     }
   ]
 }
