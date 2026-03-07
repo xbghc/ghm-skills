@@ -4,7 +4,8 @@
       "command": "uvx",
       "args": ["xbghc-telegram-mcp"],
       "env": {
-        "TELEGRAM_BOT_TOKEN": "${TELEGRAM_BOT_TOKEN}"
+        "TELEGRAM_BOT_TOKEN": "${TELEGRAM_BOT_TOKEN}",
+        "TELEGRAM_ALLOWED_CHAT_ID": "${TELEGRAM_ALLOWED_CHAT_ID}"
       }
     }
   }
